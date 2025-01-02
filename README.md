@@ -41,5 +41,5 @@ Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para entender como você po
 
 ## 📬 Contato
 Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
-- [E-mail](mailto:seuemail@gmail.com)
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- [E-mail](mailto:thiagocesarlopes01@gmail.com)
+- [LinkedIn](https://linkedin.com/in/thiagolopesin)

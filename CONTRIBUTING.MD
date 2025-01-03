@@ -74,9 +74,6 @@ Após abrir o pull request, os mantenedores do projeto revisarão suas alteraç�
 Fique de olho no seu PR e responda às mensagens, caso necessário.
 
 ---
-
-Se você tiver dúvidas ou dificuldades em qualquer uma dessas etapas, abra uma issue no repositório, eu e comunidade ajudaremos você. Bom trabalho! 🚀
----
 ## 📝 Como Compartilhar Seu Perfil
 
 Você pode adicionar seu perfil à seção "🚀 Perfis Compartilhados" no arquivo `README.md`. Siga um destes métodos:
@@ -120,7 +117,8 @@ Para garantir uma colaboração tranquila e eficiente, siga estas diretrizes:
    - Lembre-se de que todos estamos aprendendo e colaborando juntos.
 
 ---
-
+Se você tiver dúvidas ou dificuldades em qualquer uma dessas etapas, abra uma issue no repositório, eu e comunidade ajudaremos você. Bom trabalho! 🚀
+---
 ## 📚 Recursos
 
 Aqui estão algumas ferramentas e materiais úteis para ajudar você a contribuir:

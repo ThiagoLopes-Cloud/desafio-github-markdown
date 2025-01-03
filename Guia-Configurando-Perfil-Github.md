@@ -102,10 +102,19 @@ Confira esses perfis incríveis para se inspirar:
 
 ---
 
-### 📢 Compartilhe Seu Perfil
+## 🌟 Compartilhe Seu Perfil!
 
-Queremos conhecer o seu perfil! 💬  
-- Abra uma **[issue](https://github.com/seu-repositorio/issues)** no nosso repositório.  
-- Inclua o link para o seu perfil e qualquer detalhe que gostaria de destacar.
+Queremos conhecer o seu perfil no GitHub! 💬  
+Siga os passos abaixo para compartilhar o link do seu perfil conosco:
 
-Vamos celebrar suas conquistas juntos! 🚀✨
+1. **Abra uma [issue](https://github.com/seu-repositorio/issues)** neste repositório com o título: "Compartilhando meu perfil".
+2. Inclua o link para o seu perfil e uma breve descrição sobre você.
+3. Alternativamente, faça um **fork** deste repositório, edite este arquivo e crie um **pull request** para adicionar seu perfil à lista abaixo.
+
+### 🚀 Perfis Compartilhados
+
+| Nome         | Link para o Perfil          | Descrição                          |
+|--------------|-----------------------------|------------------------------------|
+| Thiago Lopes | [ThiagoLopes-Cloud](https://github.com/ThiagoLopes-Cloud) | Estudante de tecnologia apaixonado por IA. |
+| Exemplo Nome | [exemplo-usuario](https://github.com/exemplo-usuario) | Desenvolvedor backend e criador de conteúdo. |
+

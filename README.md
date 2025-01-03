@@ -18,9 +18,22 @@ Adicione sua história, habilidades e muito mais!
 
 ---
 
-## 💬 Compartilhe Seu Perfil!
-Depois de seguir o guia, compartilhe seu perfil aqui:
-- Comente na issue [#1 - Compartilhe Seu Perfil](https://github.com/seuusuario/seuprojeto/issues/1) com o link para o seu perfil e inspire outros usuários!
+## 🌟 Compartilhe Seu Perfil!
+
+Queremos conhecer o seu perfil no GitHub! 💬  
+Siga os passos abaixo para compartilhar o link do seu perfil conosco:
+
+1. **Abra uma [issue](https://github.com/seu-repositorio/issues)** neste repositório com o título: "Compartilhando meu perfil".
+2. Inclua o link para o seu perfil e uma breve descrição sobre você.
+3. Alternativamente, faça um **fork** deste repositório, edite este arquivo e crie um **pull request** para adicionar seu perfil à lista abaixo.
+
+### 🚀 Perfis Compartilhados
+
+| Nome         | Link para o Perfil          | Descrição                          |
+|--------------|-----------------------------|------------------------------------|
+| Seu Nome Aqui | [seu-usuario](https://github.com/seu-usuario) |Desenvolvedor backend e criador de conteúdo. |
+| Thiago Lopes | [ThiagoLopes-Cloud](https://github.com/exemplo-usuario) | Estudante de tecnologia apaixonado por IA. |
+
 
 ---
 

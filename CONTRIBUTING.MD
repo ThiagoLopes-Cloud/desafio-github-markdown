@@ -77,6 +77,27 @@ Fique de olho no seu PR e responda às mensagens, caso necessário.
 
 Se você tiver dúvidas ou dificuldades em qualquer uma dessas etapas, abra uma issue no repositório, eu e comunidade ajudaremos você. Bom trabalho! 🚀
 ---
+## 📝 Como Compartilhar Seu Perfil
+
+Você pode adicionar seu perfil à seção "🚀 Perfis Compartilhados" no arquivo `README.md`. Siga um destes métodos:
+
+### Método 1: Abrindo uma Issue
+1. Clique em **"Issues"** no topo deste repositório.
+2. Clique no botão **"New issue"**.
+3. Use o título: "Compartilhando meu perfil".
+4. Na descrição, adicione:
+   - O link para o seu perfil GitHub.
+   - Uma breve descrição sobre você.
+5. Envie a issue.
+
+### Método 2: Criando um Pull Request
+1. Faça um **fork** deste repositório.
+2. Edite o arquivo `README.md` no seu fork, adicionando suas informações na seção "🚀 Perfis Compartilhados".
+3. Envie um **pull request** com as alterações.
+4. No título, use: "Adicionando meu perfil ao README".
+5. Aguardamos a revisão e aprovação.
+
+
 ---
 
 ## 📝 Regras e Boas Práticas

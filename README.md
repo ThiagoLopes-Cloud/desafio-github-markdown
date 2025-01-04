@@ -48,7 +48,7 @@ Sugira novas ideias abrindo uma issue no repositório! 🎉
 ---
 
 ## 🤝 Como Contribuir
-Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para entender como você pode contribuir para este projeto.
+Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.MD) para entender como você pode contribuir para este projeto.
 
 ---
 

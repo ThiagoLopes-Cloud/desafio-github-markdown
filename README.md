@@ -32,7 +32,7 @@ Siga os passos abaixo para compartilhar o link do seu perfil conosco:
 | Nome         | Link para o Perfil          | Descrição                          |
 |--------------|-----------------------------|------------------------------------|
 | Seu Nome Aqui | [seu-usuario](https://github.com/seu-usuario) |Desenvolvedor backend e criador de conteúdo. |
-| Thiago Lopes | [ThiagoLopes-Cloud](https://github.com/exemplo-usuario) | Estudante de tecnologia apaixonado por IA. |
+| Thiago Lopes | [ThiagoLopes-Cloud](https://github.com/ThiagoLopes-Cloud) | Estudante de tecnologia apaixonado por IA. |
 
 
 ---
